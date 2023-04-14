@@ -1,5 +1,14 @@
-### Hi there 👋
+<p align="Center" ><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzg5YWEyNTVhNWMxNmUyNzAyMTU1NjVhZjM3YTRhYjY5ZTRhMDI3OSZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" height="350px" width ="600px"></p>
 
+<h1 align="center"> Hello there, I'm Gustavo Lemus👻</h1>
+My favorite tools 🛠️💻
+
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<a src="https://www.java.com/es/"><img src="https://iconos8.es/icon/1043/html"/></a>
+- 🌱 I’m currently learning ...
+Contact Me: 
 <!--
 **GusLDev/GusLDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
