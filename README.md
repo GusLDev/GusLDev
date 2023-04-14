@@ -18,11 +18,12 @@
 <p align="Center"><a src="https://es.reactjs.org/"><img src="https://img.icons8.com/plasticine/48/react.png"/></a></p>
 <h2  align="Center">About Me 👨‍💻🏋️‍♂️🎮 </h2>
 <p  align="Center">Hello, My Name is Gustavo Marin Lemus, i'm 22 years old and i like to code, i studied Systems engineering at the university
-Instituto tecnologico de méxico, tepic campus, I like to play videogames, go to the gym, and of course coding on my free time, someday I want to be surrounded by the best developers in the world, and be one of them.</p>
+Instituto tecnologico de México, tepic campus, I like to play videogames, go to the gym, and of course coding on my free time, someday I want to be surrounded by the best developers in the world, and be one of them.</p>
 <h2 align="Center">CONTACT ME</h2>
 <p  align="Center">
-<a href="mailto: gustavoml2097@hotmail.com"><img src="https://img.icons8.com/external-kmg-design-flat-kmg-design/48/external-email-business-management-kmg-design-flat-kmg-design.png"/></a>
-<a src="https://www.linkedin.com/in/gustavo-lemus-637b38258/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+ <a src="https://www.linkedin.com/in/gustavo-lemus-637b38258/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+<a href="mailto: gustavoml2097@hotmail.com"><img src="https://img.icons8.com/external-flat-juicy-fish/42/external-mail-messages-and-communication-flat-flat-juicy-fish-2.png"/></a>
+
 </p>
 
 <!--
