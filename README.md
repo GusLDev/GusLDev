@@ -17,7 +17,7 @@
 <h2 align="Center">I’m currently learning 🎓</h2>
 <p align="Center"><a src="https://es.reactjs.org/"><img src="https://img.icons8.com/plasticine/48/react.png"/></a></p>
 <h2  align="Center">About Me 👨‍💻🏋️‍♂️🎮 </h2>
-<p  align="Center">Hello, My Name is Gustavo Marin Lemus, i'm 22 years old and i like to code, i studied Systems engineering at the university
+<p  align="Center">Hello, My Name is Gustavo Marin Lemus, i'm 23 years old and i like to code, i studied Systems engineering at the university
 Instituto tecnologico de México, tepic campus, I like to play videogames, go to the gym, and of course coding on my free time, someday I want to be surrounded by the best developers in the world, and be one of them.</p>
 <h2 align="Center">CONTACT ME</h2>
 <p  align="Center">
